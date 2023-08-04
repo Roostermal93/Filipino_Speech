@@ -8,21 +8,21 @@
             "collectionId": "Filipino",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Filipino/Filipino_Speech/7eff9a42-53e1-4ad1-bc90-2548ab35b1a6/7eff9a42-53e1-4ad1-bc90-2548ab35b1a6_fil_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Filipino/7eff9a42-53e1-4ad1-bc90-2548ab35b1a6_Fi_Male.mp4"
         },
         {
             "id": "37f5601e-416e-4cf3-96ea-99a13213116d",
             "collectionId": "Filipino",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Filipino/Filipino_Speech/37f5601e-416e-4cf3-96ea-99a13213116d/37f5601e-416e-4cf3-96ea-99a13213116d_fil_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Filipino/37f5601e-416e-4cf3-96ea-99a13213116d_Fi_Male.mp4"
         },
         {
             "id": "b659330e-015e-4354-9f4a-114efdf862e0",
             "collectionId": "Filipino",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Filipino/Filipino_Speech/b659330e-015e-4354-9f4a-114efdf862e0/b659330e-015e-4354-9f4a-114efdf862e0_fil_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Filipino/b659330e-015e-4354-9f4a-114efdf862e0_Fi_Female.mp4"
         }
     ]
 }
